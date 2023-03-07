@@ -7,6 +7,7 @@ const character = {
   level: 3,
   attack: 40,
   defence: 10,
+  
   special: [
     {
       id: 8,
